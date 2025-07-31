@@ -1,0 +1,10 @@
+{
+  "tutorials": [
+    { "id": 1, "title": "React Basics", "description": "Learn React fundamentals" },
+    { "id": 2, "title": "Hooks", "description": "Deep dive into hooks" }
+  ],
+  "users": [
+    { "id": 1, "name": "Alice" },
+    { "id": 2, "name": "Bob" }
+  ]
+}
